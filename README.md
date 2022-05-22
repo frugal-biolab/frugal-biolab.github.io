@@ -1,1 +1,1 @@
-# frugal-biolab.github.io
+frugal-biolab.github.io
