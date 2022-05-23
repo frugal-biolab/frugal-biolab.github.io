@@ -33,11 +33,14 @@ theme: minima
 plugins:
   - jekyll-feed
 
+includes_dir: assets
+
 collections:
   protocols:
     output: true
   people:
     output: false
+  
   # order:
   #     - protocols.md
   #     - people.md
