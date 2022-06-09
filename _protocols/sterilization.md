@@ -54,9 +54,9 @@ Anywhere between 15-20 PSI or 105-180 kPa is safe and good for sterilization. Th
 \
 Depending on how big of a load you have, the amount of sterilization time will vary. Here are some examples:\
 \
-    - Agar bottle and some dishes: 40 minutes\
-    - Jar with scalpels or innoculation loops: 40 minutes\
-    - Full load of substrate Jars/Bags: 120 minutes\
+    - Agar bottle and some dishes: 40 minutes
+    - Jar with scalpels or innoculation loops: 40 minutes
+    - Full load of substrate Jars/Bags: 120 minutes
 
 12. When the timer runs out, turn off the heat completely. Let the Pressure Cooker fully depressurize on its own.\
 \
