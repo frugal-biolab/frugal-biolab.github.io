@@ -62,7 +62,7 @@ Depending on how big of a load you have, the amount of sterilization time will v
 \
 Wait until the Pressure Gauge goes back to 0, and you are able to open the lid. Do not force the release of pressure because that might damage the glass inside the Pressure Cooker, as well as the Cooker itself. It's best to leave to vent pipe cap on during this process.
 
-13. Open the Pressure Cooker lid and remove contents. Warning: the contents are hot and sterilized!
+13. Open the Pressure Cooker lid and remove contents. Warning: the contents are hot and sterile!
 
 ## Validated Equipment
 Pressure Cookers:
