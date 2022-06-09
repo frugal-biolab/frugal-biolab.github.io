@@ -20,13 +20,11 @@ layout: page
 
 1. Make sure you Pressure Cooker is fully functional and safe to operate[^manual]
 
-2. Add Assorted Rocks to the bottom of the Pressure Cooker and put the Trivet on top of the rocks. Bottom of the Trivet should be 3-5cm above the bottom of the pot.
+2. Add Assorted Rocks to the bottom of the Pressure Cooker and put the Trivet on top of the rocks. Bottom of the Trivet should be 3-5cm above the bottom of the pot.\
+This will protect your material from being exposed to direct heat when the Pressure Cooker is running. If you put glass jars/bottles to the bottom of the pressure cooker, they will explode from the heat. This step might be optional with an electric pressure cooker or a yoghurt maker but we don't have any validation data.
 
-  - This will protect your material from being exposed to direct heat when the Pressure Cooker is running. If you put glass jars/bottles to the bottom of the pressure cooker, they will explode from the heat. This step might be optional with an electric pressure cooker or a yoghurt maker but we don't have any validation data.
-
-3. Add hot tap water to the bottom of the Pressure Cooker.
-
-  - Normally it's about 15% of the total volume of the Pressure Cooker. You should consult the "HOW TO PRESSURE CAN FOODS" section of your Pressure Cooker manual to determine exact amount of water[^manual]. Theoretically, it is fine to use more water, althought it will make this protocol slower than it should be. Avoid using less water than required, you might not have enough water to fill the Pressure Cooker with hot water vapor.
+3. Add hot tap water to the bottom of the Pressure Cooker.\
+Normally it's about 15% of the total volume of the Pressure Cooker. You should consult the "HOW TO PRESSURE CAN FOODS" section of your Pressure Cooker manual to determine exact amount of water[^manual]. Theoretically, it is fine to use more water, althought it will make this protocol slower than it should be. Avoid using less water than required, you might not have enough water to fill the Pressure Cooker with hot water vapor.
 
 4. Place your Material (or tool, tools can be sterilized like this too!) in a Glass Jar or a Bottle.
 
