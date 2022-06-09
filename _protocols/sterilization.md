@@ -64,11 +64,6 @@ Wait until the Pressure Gauge goes back to 0, and you are able to open the lid. 
 
 13. Open the Pressure Cooker lid and remove contents. Warning: the contents are hot and sterilized!
 
-## Notes
-[^trivet]: metal disk that is usually found at the bottom of any pressure cooker.
-[^manual]: you can find the manual for your Pressure Cooker by googling numbers engraved into the lid or body of the cooker.
-[^plastics]: link to where you can find how to identify plastic types around the world.
-
 ## Validated Equipment
 Pressure Cookers:
 - Presto 23qt Pressure Cooker (model no. 01781)
@@ -77,3 +72,8 @@ Glass Jars/Bottles:
 - Kerr® Wide-Mouth Mason Quart Jar
 - Kerr® Regular-Mouth Mason Quart Jar
 - Kerr® Wide-Mouth Mason Half-Pint Jar
+
+## Notes
+[^trivet]: metal disk that is usually found at the bottom of any pressure cooker.
+[^manual]: you can find the manual for your Pressure Cooker by googling numbers engraved into the lid or body of the cooker.
+[^plastics]: link to where you can find how to identify plastic types around the world.
