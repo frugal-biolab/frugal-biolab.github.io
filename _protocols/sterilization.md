@@ -6,6 +6,8 @@ affiliation: University of California, San Francisco
 layout: page
 ---
 
+Sterilization is a essentially a process of killing everything that is alive in a certain container. It allows you to clean up your media, substrates and instruments from all possible contamination. One of the most common and frugal ways to sterilize something is by applying extremely hot temperatures. That can be achieved using a pressure cooker, which allows us to raise the temperature of steam inside to about 121° Celcius (250° Fahrenheit).
+
 ## Supplies
 
 - Pressure Cooker with Trivet[^trivet] and a Pressure Gauge
