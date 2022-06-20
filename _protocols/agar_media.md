@@ -24,30 +24,33 @@ In this protocol we will be making 400ml of 2% agar media. This basic media will
 ## Procedure
 
 1. Open and evaluate your glass bottle\
-\
-When deciding how much agar to make, a good rule of thumb is to use 80% of your bottle's capacity - if the bottle is labeled as 500ml, make 400ml. Another important thing - the bottle must not have any cracks! 
+  \
+  When deciding how much agar to make, a good rule of thumb is to use 80% of your bottle's capacity - if the bottle is labeled as 500ml, make 400ml. Another important thing - the bottle must not have any cracks! 
 
 2. Weight out 8 grams of agar and add it to the bottle\
-\
-8 grams will make up 2% of 400ml in the total mixture. If you are looking for softer media, try using 4 grams (1%) or if you want something really solid, go ahead and use 12 grams (3%). A funnel is a great tool to add stuff to bottles with narrow necks, and if you don't have one, you can [make one](https://frogprincepaperie.com/giant-ombre-paper-cone-christmas-trees/) out of paper!
+  \
+  8 grams will make up 2% of 400ml in the total mixture. If you are looking for softer media, try using 4 grams (1%) or if you want something really solid, go ahead and use 12 grams (3%). A funnel is a great tool to add stuff to bottles with narrow necks, and if you don't have one, you can [make one](https://frogprincepaperie.com/giant-ombre-paper-cone-christmas-trees/) out of paper!
 
 3. *Optional*: add other ingredients\
-\
-If your cultures require **carbohydrates**, a good carbohydrate to start with is **sucrose** - table sugar. You can add up to 8% of total weight. If your cultures require **protein**[^protein], you may want to add some malt extract, however keep in mind that it contains mostly sugars. Malt extract will a sufficient source of both proteins and carbohydrates on its own.
+  \
+  If your cultures require **carbohydrates**, a good carbohydrate to start with is **sucrose** - table sugar. You can add up to 8% of total weight. If your cultures require **protein**[^protein], you may want to add some malt extract, however keep in mind that it contains mostly sugars. Malt extract will a sufficient source of both proteins and carbohydrates on its own.\
+
+  \
+  You can also add food coloring to have agar media contrast your cultures for easier visual inspection and imaging! A few drops will do the job.
 
 4. Measure out 492ml water and add it to the bottle\
-\
-Easy way to measure water volume is by using a scale - put a container (tupperware works great) on a scale that can read down to a gram, press the `0` button to reset the scale to 0, and pour water into the container until you have a desired amount. Keep in mind that if you have added additional ingredients (or used a different amount of agar) in previous steps, you will have to add less water to make up for 500ml total.\
-\
-Antibacterial media for fungi culturing can be made frugally by *aggressively* brewing 12-24 grams of tea leaves in the water. Adjust the amount of tea leaves depending on the amount of water you are using. Using less tea leaves will make the mixture more prone to contamination, and less will slow down to culture growth substantially.
+  \
+  Easy way to measure water volume is by using a scale - put a container (tupperware works great) on a scale that can read down to a gram, press the `0` button to reset the scale to 0, and pour water into the container until you have a desired amount. Keep in mind that if you have added additional ingredients (or used a different amount of agar) in previous steps, you will have to add less water to make up for 500ml total.\
+  \
+  Antibacterial media for fungi culturing can be made frugally by *aggressively* brewing 12-24 grams of tea leaves in the water. Adjust the amount of tea leaves depending on the amount of water you are using. Using less tea leaves will make the mixture more prone to contamination, and less will slow down to culture growth substantially.
 
 5. Close the bottle lid but to not tighten it, you should be able to remove it without using force
 
 6. [Sterilize](https://frugal-biolab.github.io/protocols/sterilization.html) the bottle with the media
 
 7. Tighten the lid and store\
-\
-This mixture will be good to use for 2-3 months at room temperature. If you have added extra ingredients to the mixture (such as malt extract), store in the refrigerator.
+  \
+  This mixture will be good to use for 2-3 months at room temperature. If you have added extra ingredients to the mixture (such as malt extract), store in the refrigerator.
 
 ## Validated Equipment
 
