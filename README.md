@@ -31,8 +31,13 @@ Here goes information on how to step-by-step add a new markdown file to protocol
    - Supply 2
    
    ## Procedure
-   1. Step 1
-   2. Step 2
+   1. Step 1\
+   \
+   Detailed explanation
+
+   2. Step 2\
+   \
+   Detailed explanation
    
    ## Validated Equipment
    Supply 1:

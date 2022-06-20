@@ -1,7 +1,7 @@
 ---
 title: Sterilization
 author: Peter Chudinov
-affiliation: Uninversity of California, San Francisco
+affiliation: University of California, San Francisco
 
 layout: page
 ---
