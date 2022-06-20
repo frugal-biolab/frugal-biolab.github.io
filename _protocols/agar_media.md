@@ -6,7 +6,7 @@ affiliation: University of California, San Francisco
 layout: page
 ---
 
-Solid media is a wonderful thing! It allows you cultivate bacteria, fungi, slime molds, and other cell cultures. Usually media consists of **water** and a **thickening agent** (makes water solid). Optionally, depending on your goals (and what you are culturing), you can add **nutrients** and **antibiotics** to protect from invasive species. To use it, you will pour it on a **petri dish** or a DIY equivalent.
+Solid **media** is a wonderful thing! It allows you cultivate bacteria, fungi, slime molds, and other cell cultures. Usually media consists of **water** and a **thickening agent** (makes water solid). Optionally, depending on your goals (and what you are culturing), you can add **nutrients** and **antibiotics** to protect from invasive species. To use it, you will pour it on a **petri dish** or a DIY equivalent.
 
 There is a large variety of agar media recipes that suit different needs. This recipe is the most basic one, and if you want to add more ingredients to it, reduce the amount of water that you use by the weight of other ingredients. *Example: you decide to add 4 grams of sugar to your agar, therefore you will need to add 4ml (1ml of water weights 1 gram) less water.*
 
