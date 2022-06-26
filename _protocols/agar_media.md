@@ -34,13 +34,12 @@ In this protocol we will be making 400ml of 2% agar media. This basic media will
 3. *Optional*: add other ingredients\
   \
   If your cultures require **carbohydrates**, a good carbohydrate to start with is **sucrose** - table sugar. You can add up to 8% of total weight. If your cultures require **protein**[^protein], you may want to add some malt extract, however keep in mind that it contains mostly sugars. Malt extract will a sufficient source of both proteins and carbohydrates on its own.\
-
   \
   You can also add food coloring to have agar media contrast your cultures for easier visual inspection and imaging! A few drops will do the job.
 
-4. Measure out 492ml water and add it to the bottle\
+4. Measure out 392ml water and add it to the bottle\
   \
-  Easy way to measure water volume is by using a scale - put a container (tupperware works great) on a scale that can read down to a gram, press the `0` button to reset the scale to 0, and pour water into the container until you have a desired amount. Keep in mind that if you have added additional ingredients (or used a different amount of agar) in previous steps, you will have to add less water to make up for 500ml total.\
+  Easy way to measure water volume is by using a scale - put a container (tupperware works great) on a scale that can read down to a gram, press the `0` button to reset the scale to 0, and pour water into the container until you have a desired amount. Keep in mind that if you have added additional ingredients (or used a different amount of agar) in previous steps, you will have to add less water to make up for 400ml total.\
   \
   Antibacterial media for fungi culturing can be made frugally by *aggressively* brewing 12-24 grams of tea leaves in the water. Adjust the amount of tea leaves depending on the amount of water you are using. Using less tea leaves will make the mixture more prone to contamination, and less will slow down to culture growth substantially.
 
